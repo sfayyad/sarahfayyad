@@ -10,7 +10,8 @@ body {
 }
 
 #aboutme p {
-  margin-left: 30px;
+  display: table-row;
+  font-size: 17px;
 }
 
 img {
