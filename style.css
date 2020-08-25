@@ -12,13 +12,13 @@ section h1 {
 ul {
   margin: 0;
   padding: 0;
-  background-color: #white;
+  background-color: #ebecf0;
 }
 
 li {
   float: center;
   display: inline-block;
-  border: 10px solid #4CAF50;
+  border: 10px solid #ebecf0;
 }
 
 
@@ -36,6 +36,6 @@ header {
 }
 
 footer {
-  background-color: #BEBEBE;
+  background-color: #ebecf0;;
   padding: 30px;
 }
