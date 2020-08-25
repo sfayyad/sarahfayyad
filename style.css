@@ -3,10 +3,9 @@ body {
   text-align: center;
 }
 
-section h1 {
-  color: #BEBEBE;
-  font-family: "Lucida Console", Courier, monospace;
-  font-size: 30px;
+h1 {
+  max-width: 70%;
+  display: inline-block;
 }
 
 ul {
