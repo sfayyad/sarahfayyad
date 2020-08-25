@@ -13,13 +13,14 @@ body {
 
 #aboutme p {
   font-size: 17px;
-  margin-left: 2%;
 }
 
 img {
   width: 30%;
   float: right;
-  margin-top: 3%;
+  margin-top: 1%;
+  width: 383.84px;
+  height: 575.77px;
 }
 
 h1 {
