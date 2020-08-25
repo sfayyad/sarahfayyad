@@ -13,6 +13,10 @@ body {
   margin-left: 30px;
 }
 
+#photo {
+  max-width: 500px;
+}
+
 h1 {
   max-width: 50%;
   display: inline-block;
