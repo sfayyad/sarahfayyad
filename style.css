@@ -1,4 +1,10 @@
 body {
-  background-color: #f5f5dc;
-  align-text: center;
+  background-color: ##FFFEF2;
+  text-align: center;
+}
+
+section h1 {
+  color: #BEBEBE;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 30px;
 }
