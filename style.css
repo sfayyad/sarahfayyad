@@ -59,4 +59,7 @@ header {
 
 footer {
   background-color: #ebecf0;
+  position:relative;
+  bottom:0;
+  left:0;
 }
