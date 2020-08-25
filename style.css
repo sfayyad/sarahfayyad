@@ -6,7 +6,7 @@ body {
 
 #aboutme {
   text-align: left;
-  margin-left: 200px;
+  margin-left: 10%;
 }
 
 #aboutme p {
@@ -63,5 +63,3 @@ footer {
   bottom:0;
   left:0;
 }
-
-
