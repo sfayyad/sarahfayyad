@@ -1,4 +1,70 @@
 body {
-  background-color: #f5f5dc;
+  background-color: ##FFFEF2;
   text-align: center;
+  font-family: Andale Mono,AndaleMono,monospace;
+}
+
+#aboutme {
+  text-align: left;
+  margin-left: 10%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#aboutme p {
+  font-size: 17px;
+}
+
+img {
+  width: 30%;
+  float: right;
+  margin-top: 1%;
+  width: 383.84px;
+  height: 575.77px;
+}
+
+h1 {
+  max-width: 50%;
+  display: inline-block;
+  font-size: 20px;
+}
+
+li a:hover {
+  background-color: #111;
+  color: white;
+  padding: 14px 16px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  background-color: #ebecf0;
+}
+
+li {
+  float: center;
+  display: inline-block;
+  border: 10px solid #ebecf0;
+}
+
+
+li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+header {
+  color: #BEBEBE;
+
+}
+
+footer {
+  background-color: #ebecf0;
+  position: fixed;
+  bottom:0;
+  left:0;
+  right: 0;
 }
