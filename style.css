@@ -1,3 +1,19 @@
+/* new css */
+
+header {
+  color: #f8f9fa;
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
+
+.content {
+  margin-top: 50px;
+}
+
+/* old css */
+
 body {
   background-color: ##FFFEF2;
   text-align: center;
@@ -54,11 +70,6 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-header {
-  color: #BEBEBE;
-
 }
 
 footer {
