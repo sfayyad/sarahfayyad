@@ -1,7 +1,8 @@
 /* new css */
 
-header {
-  color: #f8f9fa;
+#header {
+  background-color: #f9d1f4;
+  align-items: center;
   position: fixed;
   left: 0px;
   right: 0px;
@@ -10,6 +11,55 @@ header {
 
 .content {
   margin-top: 50px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.headerButtons {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.headerButton {
+  width: 15%;
+}
+
+.headerLinks {
+  text-decoration: none;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  font-weight: 100;
+  letter-spacing: 0.3em;
+}
+
+/*
+#nameButton {
+  width: 15%
+  text-align: left;
+}
+
+#nameLink {
+  padding-left: 25px;
+  color: #ff0098;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.25em;
+  font-weight: 300;
+  letter-spacing: 0.4em;
+}
+*/
+
+#logoContainer {
+  width: 15%
+}
+
+#logo {
+  all: unset;
+  width: 60%;
 }
 
 /* old css */
