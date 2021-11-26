@@ -1,12 +1,21 @@
 /* new css */
 
 #header {
-  background-color: #f9d1f4;
+  background-color: #fbbff4;
   align-items: center;
   position: fixed;
   left: 0px;
   right: 0px;
   top: 0px;
+}
+
+#footer {
+  background-color: #fbbff4;
+  align-items: center;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
 }
 
 .content {
@@ -27,13 +36,29 @@
   width: 15%;
 }
 
-.headerLinks {
+.footerButtons {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footerButton {
+  width: 50%;
+}
+
+.buttonLinks {
   text-decoration: none;
   color: white;
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
   font-weight: 100;
   letter-spacing: 0.3em;
+}
+
+#blog {
+  margin-top: 114px;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.3em;
+  background-color: #fffef8;
 }
 
 /*
